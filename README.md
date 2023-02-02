@@ -1,4 +1,4 @@
-First of all, Github desktop is working well (for me for the first time, hopefully the update is in real time).....
+First of all, Github desktop is working well (for me for the first time, hopefully the update is in real time).....please see the link for the coding: https://github.com/fuyingpku/coupon_issue/blob/8172c660424a4a3193f6a7903751b369160994a7/Untitled.ipynb
 
 Goal: “Will a customer accept the coupon?” 
 
